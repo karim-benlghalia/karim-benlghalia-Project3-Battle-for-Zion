@@ -1,4 +1,4 @@
-#The game:
+# The game:
 If you execute this [Windows program](http://www.solomonlrussell.com/fall16/cs2/Projects/3/zion.exe) or this [Mac program](http://www.solomonlrussell.com/fall16/cs2/Projects/3/zionmac.zip) or this [Linux program](http://www.solomonlrussell.com/fall16/cs2/Projects/3/zion.linux), you will see the player (indicated by @) in a rectangular arena filled with killer robots (usually indicated by R). At each turn, the user will select an action for the player to take. The player will take the action, and then each robot will move one step in a random direction. If a robot lands on the position occupied by the player, the player dies.
 
 This smaller [Windows version](http://www.solomonlrussell.com/fall16/cs2/Projects/3/minizion.exe) or [Mac version](http://www.solomonlrussell.com/fall16/cs2/Projects/3/minizionmac.zip) or [Linux version](http://www.solomonlrussell.com/fall16/cs2/Projects/3/minizion.linux) of the game may help you see the operation of the game more clearly.
